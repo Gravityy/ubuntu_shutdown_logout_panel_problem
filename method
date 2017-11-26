@@ -1,0 +1,5 @@
+ Step 1 - First, open Startapp application from the Ubuntu's dash.
+ Step 2 - If you have already added Plank dock to the startup item, you just need to edit the command columns with sh -c "sleep 10 && plank".(without '.' )
+ Step 3 - What's next? Reboot your computer and test the new command!
+ 
+ Source: http://www.linuxslaves.com/2016/06/fix-cant-shutdown-from-ubuntus-toppanel-after-install-plank.html
